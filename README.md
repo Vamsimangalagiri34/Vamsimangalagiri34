@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vamsimangalagiri34
+- 👋 Hi, I’m Vamsi Mangalagiri
 - 👀 I’m interested in full stack developement
 - 🌱 I’m currently learning ...
 
