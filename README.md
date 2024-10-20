@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Vamsi Mangalagiri
-- 👀 I’m interested in full stack developement
-- 🌱 I’m currently learning ...
-
-<!---
-Vamsimangalagiri34/Vamsimangalagiri34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Vamsi Mangalagiri
+👀 I’m a passionate full stack developer with a knack for creating seamless user experiences and robust backend solutions.
+🌱 I’m currently exploring the latest web technologies and frameworks, enhancing my skills in Java, HTML, CSS, and JavaScript.
+🚀 I thrive on tackling challenges and delivering innovative solutions, and I’m actively seeking job opportunities to contribute my expertise to impactful projects.
